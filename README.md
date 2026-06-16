@@ -23,3 +23,4 @@ We anticipate observing activation of VIP interneurons in the absence of activit
 familiarity-encoding excitatory populations in deeper layers, followed by subsequent activation
 of novelty-encoding excitatory neurons in shallower layers. This would suggest a feedback
 mechanism modulating predictive coding functions in cortical regions near the retina.
+The slide presentation is attached below.
