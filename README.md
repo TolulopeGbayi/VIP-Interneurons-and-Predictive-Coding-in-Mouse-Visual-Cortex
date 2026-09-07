@@ -16,6 +16,8 @@ layers.
 2. This suppression is expected to maintain
 the activity of excitatory neurons involved in
 encoding novel stimuli, thereby facilitating
+
+The aim is centered around understanding; When a mouse sees something novel, do VIP neurons in deeper cortical layers activate first and suppress SST neurons, which then allows novelty-responsive excitatory neurons in superficial layers to become active?
 their contribution to the generation and
 updating of predictive models in response to
 new information.
