@@ -1,4 +1,4 @@
-# VRole of VIP-SST Disinhibition in Predictive Coding of Novelty in the Mouse Visual Cortex
+# Role of VIP-SST Disinhibition in Predictive Coding of Novelty in the Mouse Visual Cortex
 Contributors: Micheal Myers, Michael Sperling, Oussama Benmansour, Arash Karoobi,
 Myar Khaled, Shiva Sedghi, Tolulope Gbayisomore
 
